@@ -1,4 +1,30 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+## 📊 Team Project – Data Analysis Dashboard
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+## 📌 Project Overview
+This project was developed as part of our team work.  
+It focuses on analyzing data and building an interactive dashboard to provide insights and support decision-making.  
+
+---
+
+## 🚀 Objectives
+- Collect and clean raw data.  
+- Build an interactive dashboard.  
+- Provide KPIs and visual insights.  
+- Support data-driven decision-making.  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** for dashboard creation  
+- **Excel** for preprocessing and analysis  
+- **GitHub** for version control and collaboration  
+
+---
+
+## 👩‍💻 Team Members
+- Sara Alaa Abd El-nabi  
+- Abdelrhman Yasser Mohamed
+- Noureldin Diaa Elsayed Abdelhakim  
+- Hana Mohamed Ahmed Mohamed
+- Marina Ashraf Refaat
+- Shahd Hossameddin Selim 
