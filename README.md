@@ -26,5 +26,4 @@ It focuses on analyzing data and building an interactive dashboard to provide in
 - Abdelrhman Yasser Mohamed
 - Noureldin Diaa Elsayed Abdelhakim  
 - Hana Mohamed Ahmed Mohamed
-- Marina Ashraf Refaat
-- Shahd Hossameddin Selim 
+ 
