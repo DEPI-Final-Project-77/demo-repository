@@ -19,11 +19,4 @@ It focuses on analyzing data and building an interactive dashboard to provide in
 - **Excel** for preprocessing and analysis  
 - **GitHub** for version control and collaboration  
 
----
-
-## 👩‍💻 Team Members
-- Sara Alaa Abd El-nabi  
-- Abdelrhman Yasser Mohamed
-- Noureldin Diaa Elsayed Abdelhakim  
-- Hana Mohamed Ahmed Mohamed
  
